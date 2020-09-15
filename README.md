@@ -1,2 +1,2 @@
-#CSS_HTML_sample
-My first project
+#CSS_HTML_Cases-page
+My first project - Responsive design
